@@ -1,0 +1,15 @@
+.container {
+    position: fixed;
+    top: 0;
+    left: 25%;
+    width: 50%;
+    height: 50%;
+    color: black;
+    background-color: rgba(0, 0, 0, .50);
+}
+
+.close {
+    display: flex;
+    align-items: flex-end;
+    width: 100%;
+}
