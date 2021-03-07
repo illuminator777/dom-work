@@ -1,0 +1,19 @@
+.svetlofor {
+    list-style-type: none;
+    height: 30px;
+    width: 30px;
+    background-color: #000000;
+
+}
+
+.color-red {
+background-color: #ff0000;
+}
+
+.color-oreng {
+    background-color: #ffa500;
+}
+
+.color-green {
+    background-color: #008000;
+}
